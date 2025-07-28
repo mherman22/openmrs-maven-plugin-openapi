@@ -1,0 +1,5 @@
+/Users/mac/Documents/work/gsoc/openmrs-swagger-maven-plugin/src/main/java/org/openmrs/maven/plugin/swagger/util/SwaggerSpecificationCreator.java
+/Users/mac/Documents/work/gsoc/openmrs-swagger-maven-plugin/src/main/java/org/openmrs/maven/plugin/swagger/OpenApiAggregatorMojo.java
+/Users/mac/Documents/work/gsoc/openmrs-swagger-maven-plugin/src/main/java/org/openmrs/maven/plugin/swagger/util/property/EnumProperty.java
+/Users/mac/Documents/work/gsoc/openmrs-swagger-maven-plugin/src/main/java/org/openmrs/maven/plugin/swagger/util/ReflectiveSwaggerGenerationUtil.java
+/Users/mac/Documents/work/gsoc/openmrs-swagger-maven-plugin/src/main/java/org/openmrs/maven/plugin/swagger/OpenApiGeneratorMojo.java

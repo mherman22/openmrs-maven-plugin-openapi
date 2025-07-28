@@ -1,0 +1,10 @@
+org/openmrs/maven/plugin/swagger/util/SwaggerSpecificationCreator$ModuleVersion.class
+org/openmrs/maven/plugin/swagger/util/ReflectiveSwaggerGenerationUtil.class
+org/openmrs/maven/plugin/swagger/util/SwaggerSpecificationCreator.class
+org/openmrs/maven/plugin/swagger/util/SwaggerSpecificationCreator$2.class
+org/openmrs/maven/plugin/swagger/util/property/EnumProperty.class
+org/openmrs/maven/plugin/swagger/OpenApiGeneratorMojo.class
+org/openmrs/maven/plugin/swagger/OpenApiAggregatorMojo.class
+org/openmrs/maven/plugin/swagger/util/ReflectiveSwaggerGenerationUtil$1.class
+org/openmrs/maven/plugin/swagger/util/SwaggerSpecificationCreator$OperationEnum.class
+org/openmrs/maven/plugin/swagger/util/SwaggerSpecificationCreator$1.class
