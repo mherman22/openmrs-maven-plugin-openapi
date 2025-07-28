@@ -42,6 +42,7 @@ import java.util.UUID;
 public class ReflectiveSwaggerGenerationUtil {
 
     private static final Map<Class<?>, Object> resourceHandlers = new HashMap<Class<?>, Object>();
+
     private static Log log;
 
     public static void setLog(Log log) {
